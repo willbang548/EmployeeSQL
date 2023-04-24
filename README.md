@@ -1,9 +1,9 @@
 # EmployeeSQL
-This repo contains the file of EmployeeSQL challenge\
+This repo contains the file of EmployeeSQL challenge
 
-ERD is data_modeling.png\
+ERD is data_modeling.png
 
-Data engineering is data_engineering.sql\
+Data engineering is data_engineering.sql
 
-Data analysis is data_analysis.sql\
+Data analysis is data_analysis.sql
 
